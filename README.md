@@ -1,4 +1,4 @@
-## DH Notes<sup>†</sup><sup>
+## Computational Humanities Notes<sup>†</sup><sup>
 <sup>† Bold titles indicate substantially complete resources.</sup>  
 
 *These documents contain the working notes, tutorials, manuals, and other "local knowledge" materials from [Columbia's Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/).*
