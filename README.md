@@ -23,9 +23,8 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 - Event-history
     - Survival
 - Causal inference
-    - [DiD](https://github.com/cu-nil/dhnotes/blob/master/pages/DiD.md)
-    - ITS
-    - Event Study
+    - [Difference-in-Differences](https://github.com/cu-nil/dhnotes/blob/master/pages/DiD.md)
+    - [Interrupted Time Series & Regression Discontinuity](https://github.com/cu-nil/dhnotes/blob/master/pages/regress-disc.md)
 
 > **Funding, Journals, Programs, Review, and Conferences**
 

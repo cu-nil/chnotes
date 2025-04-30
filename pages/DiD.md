@@ -2,9 +2,12 @@
 
 - "[DiD][002]" in *The Effect* (2021) by Nick Huntington-Klein.
 - "[DiD][001]" in *Causal Inference: The Mixtape* (2021) by Scott Cunningham.
+- "[Difference-in-Differences Event Study / Dynamic Difference-in-Differences][003]" in LOST.
+
 
 [001]: https://mixtape.scunning.com/09-difference_in_differences
 [002]: https://theeffectbook.net/ch-DifferenceinDifference.html
+[003]: https://lost-stats.github.io/Model_Estimation/Research_Design/event_study.html
 
 ### Key Papers
 
