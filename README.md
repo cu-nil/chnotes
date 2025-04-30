@@ -20,11 +20,12 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 - [Stylometry](https://github.com/cu-nil/dhnotes/blob/master/pages/style.md)
 - Network Analysis
     - Diffusion / Contagion
+    - Network Spatial Autoregression (SAR)
 - Event-history
     - Survival
 - Causal inference
-    - [Difference-in-Differences](https://github.com/cu-nil/dhnotes/blob/master/pages/DiD.md)
     - [Interrupted Time Series & Regression Discontinuity](https://github.com/cu-nil/dhnotes/blob/master/pages/regress-disc.md)
+    - [Difference-in-Differences](https://github.com/cu-nil/dhnotes/blob/master/pages/DiD.md)
 
 > **Funding, Journals, Programs, Review, and Conferences**
 
