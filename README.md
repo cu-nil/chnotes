@@ -1,7 +1,14 @@
-## Computational Humanities Notes<sup>†</sup><sup>
-<sup>† Bold titles indicate substantially complete resources.</sup>  
+## Computational Humanities Notes
 
-*These documents contain the working notes, tutorials, manuals, and other "local knowledge" materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/).*
+*These documents contain the working notes, tutorials, manuals, and other "local knowledge"
+materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/).*
+
+> **Lab Stack**
+
+- [CLI][2]
+- [Markdown + Pandoc][3]
+- [GitHub](https://github.com/dh-notes/dhnotes/blob/master/pages/github.md)
+- [Python][1]
 
 > **Funding, Journals, Programs, Review, and Conferences**
 
@@ -29,7 +36,7 @@
 [3]: http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
 [4]: https://github.com/xpmethod/dhnotes/blob/master/cheatsheets/githum.md
 
-> **Technologies of Dissent**  
+> **Technologies of Dissent**
 A series of workshops and teach-ins to address the needs of scholars and
 activists at risk.
 
