@@ -5,9 +5,8 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 
 > **Lab Stack**
 
-- [Publication Pipeline](https://github.com/cu-nil/dhnotes/blob/master/pages/pipeline.md)
 - [Lab Culture](https://github.com/cu-nil/dhnotes/blob/master/pages/lab-culture.md)
-
+- [Publication Pipeline](https://github.com/cu-nil/dhnotes/blob/master/pages/pipeline.md)
 - [CLI][2]
 - [Markdown + Pandoc][3]
 - [GitHub](https://github.com/dh-notes/dhnotes/blob/master/pages/github.md)
@@ -15,7 +14,7 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 
 > **Methods**
 
-- [Narratology][https://github.com/denten-courses/narrative/blob/main/README.md)
+- [Narratology](https://github.com/denten-courses/narrative/blob/main/README.md)
 - Linguistics
 - Digital Ethnography
 - Stylometry
