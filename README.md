@@ -17,13 +17,13 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 - [Narratology](https://github.com/denten-courses/narrative/blob/main/README.md)
 - Linguistics
 - Digital Ethnography
-- Stylometry
+- [Stylometry](https://github.com/cu-nil/dhnotes/blob/master/pages/style.md)
 - Network Analysis
     - Diffusion / Contagion
 - Event-history
     - Survival
 - Causal inference
-    - DiD
+    - [DiD](https://github.com/cu-nil/dhnotes/blob/master/pages/DiD.md)
     - ITS
     - Event Study
 
