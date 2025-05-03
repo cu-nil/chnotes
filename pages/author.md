@@ -1,9 +1,27 @@
-CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) developed by
-National Information Standards Organization (NISO).
+## CRediT + FLAE
+
+CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT)
+developed by National Information Standards Organization (NISO) in addition to the
+First-Last-Author-Emphasis norm (FLAE) as described by the [Framework for Open and Reproducible
+Research Training][003].
+
+[003]: https://web.archive.org/save/https://forrt.org/glossary/english/first_last_author_emphasis_norm/#
+
+## FLAE
+
+> Definition: An authorship system that assigns the order of authorship depending on the
+contributions of a given author while simultaneously valuing the first and last position of
+the authorship order most. According to this system, the two main authors are indicated as
+the first and last author - the order of the authors between the first and last position is
+determined by contribution in a descending order.[^1]
+
+[^1]: https://forrt.org/glossary/english/first_last_author_emphasis_norm/#
+
+## CRedIT
 
 > CRediT is a high-level taxonomy, including 14 roles, that can be used to represent the roles
 typically played by contributors to scientific scholarly output. The roles describe each
-contributor’s specific contribution to the scholarly output.[^1]
+contributor’s specific contribution to the scholarly output.[^2]
 
 The [Training Data Lab][002] at Leiden University, Netherlands provides a concise graphical
 representation of the labels as follows:
@@ -28,6 +46,6 @@ representation of the labels as follows:
 [001]: https://web.archive.org/web/20250503023409/https://credit.niso.org/
 [002]: https://web.archive.org/save/https://training-datalab.com/en/credit/
 
-[^1]: https://www.niso.org/press-releases/contributor-roles-taxonomy-credit-formalized-ansiniso-standard
+[^2]: https://www.niso.org/press-releases/contributor-roles-taxonomy-credit-formalized-ansiniso-standard
 
 
