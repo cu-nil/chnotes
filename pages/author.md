@@ -10,7 +10,7 @@ representation of the labels as follows:
 
 | **Badge** | **Role** | **Definition**
 |---|---|---|
-| [<img src="./images/badges/conceptualization.png" align="center" width="60" />](conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
+| [<img src="/cu-nil/chnotes/raw/master/images/badges" align="center" width="60" />](conceptualization.png) | Conceptualization | Ideas, formulation or evolution of overarching research goals and aims. |
 | [<img src="images/badges/data_curation.png" align="center" width="60" />](data_curation.png) | Data curation | Produce metadata, scrub data and maintain research data for initial use and later re-use. |
 | [<img src="images/badges/formal_analysis.png" align="center" width="60" />](formal_analysis.png) | Formal analysis | Application of statistical, mathematical, computational, or other formal techniques to analyze data. |
 | [<img src="images/badges/funding_acquisition.png" align="center" width="60" />](funding_acquisition.png) | Funding acquisition | Acquisition of the financial support for the project leading to this publication. |
