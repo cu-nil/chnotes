@@ -12,8 +12,10 @@ National Information Standards Organization (NISO).
 - As a rule of thumb, our first authors should take ownership especially at research stages
 of conceptualization, writing, and project administration --- ensuring timely progress to
 submission.
-- The sequence of authors should be determined by their relative contributions to the
-manuscript.
+- Discuss roles and attribution early. Update throughout.
+- Facilitate clear ownership of specific tasks.
+- The sequence of authors should be determined by their relative contribution to the
+project.
 - The last author will often act in the supervisory role, anchoring the project in favor of
 junior colleagues.
 - The lab's GitHub project template includes a CREDIT file that should be updated regularly.
@@ -23,7 +25,6 @@ possible, where the logging happens automatically.
 - An internal review should generally precede journal or conference submission.
 - Be open and forthright about your expectations. Do not hesitate to bring up any issues that
 may arise with the lab's faculty advisors.
-
 
 [003]: https://web.archive.org/save/https://forrt.org/glossary/english/first_last_author_emphasis_norm/#
 
