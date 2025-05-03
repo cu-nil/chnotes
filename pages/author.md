@@ -1,27 +1,39 @@
-## CRediT + FLAE
+> When doing research, and especially as part of a team, best practice is always to ensure that
+there is clarity of roles at the beginning and throughout a research project. This will help to
+speed things up and avoid confusion and potential disputes at the time of reporting and writing
+work up, and when individuals may need to describe their contributions according to the CRediT
+taxonomy.[^1]
 
-CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT)
-developed by National Information Standards Organization (NISO) in addition to the
-First-Last-Author-Emphasis norm (FLAE) as described by the [Framework for Open and Reproducible
-Research Training][003].
+[^1]: https://credit.niso.org/implementing-credit/
+
+CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) developed by
+National Information Standards Organization (NISO).
+
+- As a rule of thumb, our first authors should take ownership especially at research stages
+of conceptualization, writing, and project administration --- ensuring timely progress to
+submission.
+- The sequence of authors should be determined by their relative contributions to the
+manuscript.
+- The last author will often act in the supervisory role, anchoring the project in favor of
+junior colleagues.
+- The lab's GitHub project template includes a CREDIT file that should be updated regularly.
+- Keep a log of your work. Channel your contributions through GitHub and Google Docs as much as
+possible, where the logging happens automatically.
+- Late projects may be reassigned, under consultation between faculty advisors.
+- An internal review should generally precede journal or conference submission.
+- Be open and forthright about your expectations. Do not hesitate to bring up any issues that
+may arise with the lab's faculty advisors.
+
 
 [003]: https://web.archive.org/save/https://forrt.org/glossary/english/first_last_author_emphasis_norm/#
-
-## FLAE
-
-> Definition: An authorship system that assigns the order of authorship depending on the
-contributions of a given author while simultaneously valuing the first and last position of
-the authorship order most. According to this system, the two main authors are indicated as
-the first and last author - the order of the authors between the first and last position is
-determined by contribution in a descending order.[^1]
-
-[^1]: https://forrt.org/glossary/english/first_last_author_emphasis_norm/#
 
 ## CRedIT
 
 > CRediT is a high-level taxonomy, including 14 roles, that can be used to represent the roles
 typically played by contributors to scientific scholarly output. The roles describe each
-contributor’s specific contribution to the scholarly output.[^2]
+contributor’s specific contribution to the scholarly output.[^3]
+
+[^3]: https://www.niso.org/press-releases/contributor-roles-taxonomy-credit-formalized-ansiniso-standard
 
 The [Training Data Lab][002] at Leiden University, Netherlands provides a concise graphical
 representation of the labels as follows:
@@ -46,6 +58,5 @@ representation of the labels as follows:
 [001]: https://web.archive.org/web/20250503023409/https://credit.niso.org/
 [002]: https://web.archive.org/save/https://training-datalab.com/en/credit/
 
-[^2]: https://www.niso.org/press-releases/contributor-roles-taxonomy-credit-formalized-ansiniso-standard
 
 
