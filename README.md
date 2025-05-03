@@ -11,6 +11,7 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 - [Markdown + Pandoc][3]
 - [GitHub](https://github.com/dh-notes/dhnotes/blob/master/pages/github.md)
 - [Python][1]
+- [Authorship Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/author.md)
 
 > **Methods**
 
@@ -18,6 +19,7 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 - Linguistics
 - Digital Ethnography
 - [Stylometry](https://github.com/cu-nil/dhnotes/blob/master/pages/style.md)
+- Statistical Thinkin
 - Network Analysis
     - Diffusion / Contagion
     - Network Spatial Autoregression (SAR)
