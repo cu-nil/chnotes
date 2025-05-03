@@ -1,9 +1,9 @@
 CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) developed by
 National Information Standards Organization (NISO).
 
-[001]: https://credit.niso.org/
-
-CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, that can be used to represent the roles typically played by contributors to scientific scholarly output. The roles describe each contributor’s specific contribution to the scholarly output.
+> CRediT is a high-level taxonomy, including 14 roles, that can be used to represent the roles
+typically played by contributors to scientific scholarly output. The roles describe each
+contributor’s specific contribution to the scholarly output.[^1]
 
 | **Badge** | **Role** | **Definition**
 |---|---|---|
@@ -21,4 +21,9 @@ CRediT (Contributor Roles Taxonomy) is high-level taxonomy, including 14 roles, 
 | [<img src="data_visualization.png" align="center" width="60" />](data_visualization.png) | Visualization | Preparation, creation and/or presentation of the published work, specifically data presentation. |
 | [<img src="writing_initial_draft.png" align="center" width="60" />](writing_initial_draft.png) | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | [<img src="writing_review.png" align="center" width="60" />](writing_review.png) | Writing – review and editing | Critical review, commentary or revision – including pre- or post-publication stages. |
+
+[001]: https://credit.niso.org/
+
+[^1]: https://www.niso.org/press-releases/contributor-roles-taxonomy-credit-formalized-ansiniso-standard
+
 
