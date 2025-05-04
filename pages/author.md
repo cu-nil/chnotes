@@ -59,5 +59,24 @@ representation of the labels as follows:
 [001]: https://web.archive.org/web/20250503023409/https://credit.niso.org/
 [002]: https://web.archive.org/save/https://training-datalab.com/en/credit/
 
+## Documents Consulted
 
+- American Historical Association (AHA). "Collaboration in Historical Scholarship."
+Accessed May 3, 2025. [https://www.historians.org/resource/collaboration/][114]
 
+- International Committee of Medical Journal Editors (ICMJE). 2023. "Defining the
+Role of Authors and Contributors" the *Recommendations for the Conduct, Reporting,
+Editing, and Publication of Scholarly Work in Medical Journals*. Updated May 2023.
+[https://www.icmje.org/recommendations/][113].
+
+- Fine, Mark A., and Lawrence A. Kurdek. “[Reflections on Determining Authorship Credit and
+Authorship Order on Faculty-Student Collaborations.][111]” *American Psychologist* 48, no. 11 (1993):
+1141–47.
+
+- Frandsen, Tove Faber, and Jeppe Nicolaisen. “[What Is in a Name? Credit Assignment Practices
+in Different Disciplines][112].” Journal of Informetrics 4, no. 4 (October 1, 2010): 608–17.
+
+[111]: https://psycnet.apa.org/fulltext/1994-11404-001.html
+[112]: https://www-sciencedirect-com.ezproxy.cul.columbia.edu/science/article/pii/S1751157710000647?via%3Dihub
+[113]: https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
+[114]: https://www.historians.org/resource/collaboration/
