@@ -2,10 +2,10 @@ CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) de
 National Information Standards Organization (NISO).
 
 - As a rule of thumb, our first authors should take ownership especially at research stages
-of conceptualization, writing, and project administration --- ensuring timely progress to
+of conceptualization, writing, and project administration — ensuring timely progress to
 submission.
 - "When doing research, and especially as part of a team, best practice is always to ensure that
-there is clarity of roles at the beginning and throughout a research project."<sup>^5</sup>
+there is clarity of roles at the beginning and throughout a research project."<sup>5</sup>
 - Facilitate clear ownership of specific tasks.
 - The sequence of authors should be determined by their relative contribution to the
 project.
@@ -23,7 +23,7 @@ may arise with the lab's faculty advisors.
 
 > CRediT is a high-level taxonomy, including 14 roles, that can be used to represent the roles
 typically played by contributors to scientific scholarly output. The roles describe each
-contributor’s specific contribution to the scholarly output.[^5]
+contributor’s specific contribution to the scholarly output.<sup>5</sup>
 
 The [Training Data Lab][002] at Leiden University, Netherlands provides a concise graphical
 representation of the labels as follows:
