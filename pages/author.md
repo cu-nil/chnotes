@@ -65,8 +65,7 @@ Authorship Order on Faculty-Student Collaborations.][111]” *American Psycholog
 4. Frandsen, Tove Faber, and Jeppe Nicolaisen. “[What Is in a Name? Credit Assignment Practices
 in Different Disciplines][112].” Journal of Informetrics 4, no. 4 (October 1, 2010): 608–17.
 
-5. National Information Standards Organization (NISO). "Implementing CRediT." Accessed May 3,
-2025. [https://credit.niso.org/implementing-credit/][115].
+5. National Information Standards Organization (NISO). "Implementing CRediT." Accessed May 3, 2025. [https://credit.niso.org/implementing-credit/][115].
 
 
 [111]: https://psycnet.apa.org/fulltext/1994-11404-001.html
