@@ -1,16 +1,11 @@
-> When doing research, and especially as part of a team, best practice is always to ensure that
-there is clarity of roles at the beginning and throughout a research project. This will help to
-speed things up and avoid confusion and potential disputes at the time of reporting and writing
-work up, and when individuals may need to describe their contributions according to the CRediT
-taxonomy.[^5]
-
 CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) developed by
 National Information Standards Organization (NISO).
 
 - As a rule of thumb, our first authors should take ownership especially at research stages
 of conceptualization, writing, and project administration --- ensuring timely progress to
 submission.
-- Discuss roles and attribution early. Update throughout.
+- "When doing research, and especially as part of a team, best practice is always to ensure that
+there is clarity of roles at the beginning and throughout a research project."<sup>^5</sup>
 - Facilitate clear ownership of specific tasks.
 - The sequence of authors should be determined by their relative contribution to the
 project.
@@ -50,6 +45,7 @@ representation of the labels as follows:
 | [<img src="https://github.com/cu-nil/chnotes/blob/master/images/badges/writing_initial_draft.png" align="center" width="60" />](writing_initial_draft.png) | Writing – original draft | Preparation, creation and/or presentation of the published work, specifically writing the initial draft. |
 | [<img src="https://github.com/cu-nil/chnotes/blob/master/images/badges/writing_review.png" align="center" width="60" />](writing_review.png) | Writing – review and editing | Critical review, commentary or revision – including pre- or post-publication stages. |
 
+[001]: https://web.archive.org/web/20250503023409/https://credit.niso.org/
 [002]: https://web.archive.org/save/https://training-datalab.com/en/credit/
 
 ## Documents Consulted
