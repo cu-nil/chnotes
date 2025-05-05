@@ -2,7 +2,7 @@ CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) de
 National Information Standards Organization (NISO).
 
 - As a rule of thumb, our first authors should take ownership especially at research stages
-of conceptualization, writing, and project administration — ensuring timely progress to
+of *conceptualization*, *writing*, and *project administration* — ensuring timely progress to
 submission.
 - "When doing research, and especially as part of a team, best practice is always to ensure that
 there is clarity of roles at the beginning and throughout a research project."<sup>5</sup>
