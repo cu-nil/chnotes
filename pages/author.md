@@ -10,6 +10,8 @@ Each repository will generally contain a `CRedIT.md` file, capturing a snapshot 
 conversation. Though assigned formally, we expect roles to occasionally change and evolve
 throughout a project's lifecycle.
 
+CRedIT narrative should go into a footnote.
+
 ## First, Second, Middle, Last (FSML) Author Emphasis Model
 
 *First*, *Second*, *Middle*, and *Last* authors play distinct but dynamic roles as part of a
