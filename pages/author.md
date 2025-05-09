@@ -1,23 +1,22 @@
-## CUNIL Co-authorship Attribution Guidelines
+# CUNIL Co-authorship Attribution Guidelines
 
 The following articulates a set of guidelines for determining author order, assigning roles,
-setting clear expectations, and crediting fairly in an varied collaborative environment.
+setting clear expectations, and crediting fairly in a varied collaborative environment.
 These guidelines were written (a) in consultation with several similar labs, (b) in review of
 relevant literature<sup>1-4</sup>, and (c) in light of existing standards<sup>5-6</sup>.
 
 It is important to discuss authorship attribution early and throughout the project.<sup>5</sup>
 Each repository will generally contain a `CRedIT.md` file, capturing a snapshot of that
-conversation. Though assigned formally, we expect for roles to occasionally change and evolve
+conversation. Though assigned formally, we expect roles to occasionally change and evolve
 throughout a project's lifecycle.
 
 ## First, Second, Middle, Last (FSML) Author Emphasis Model
 
-*First*, *Second*, *Middle* and *Last* authors play distinct but dynamic roles as part of a
+*First*, *Second*, *Middle*, and *Last* authors play distinct but dynamic roles as part of a
 research team. In case of multiples, "bin" to role, but keep it reasonable: One first, second,
 and last author is always preferable for clarity.
 
-***First author/s*** tend to do the most work as well as being responsible especially for
-project conceptualization and methodology.
+***First author/s*** tend to do the most work as well as being responsible, especially for project conceptualization and methodology.
 
 ***Second author/s*** tend to make deep contributions in several specific areas of
 responsibility.
@@ -45,7 +44,7 @@ may arise with the lab's faculty advisors.
 typically played by contributors to scientific scholarly output. The roles describe each
 contributor’s specific contribution to the scholarly output.<sup>5</sup>
 
-The [Training Data Lab][002] at Leiden University, Netherlands provides a concise graphical
+The [Training Data Lab][002] at Leiden University, Netherlands, provides a concise graphical
 representation of the labels as follows:
 
 | **Badge** | **Role** | **Definition**
