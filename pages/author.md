@@ -1,3 +1,5 @@
+## CUNIL Co-authorship Attribution Guidelines
+
 The following articulates a set of guidelines for determining author order, assigning roles,
 setting clear expectations, and crediting fairly in an varied collaborative environment.
 These guidelines were written (a) in consultation with several similar labs, (b) in review of
@@ -7,7 +9,6 @@ It is important to discuss authorship attribution early and throughout the proje
 Each repository will generally contain a `CRedIT.md` file, capturing a snapshot of that
 conversation. Though assigned formally, we expect for roles to occasionally change and evolve
 throughout a project's lifecycle.
-
 
 ## First, Second, Middle, Last (FSML) Author Emphasis Model
 
