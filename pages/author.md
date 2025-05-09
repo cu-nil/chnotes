@@ -1,20 +1,39 @@
-CUNIL follows the guidelines set by [Contributor Role Taxonomy][001] (CRediT) developed by
-National Information Standards Organization (NISO).
+The following articulates a set of guidelines for determining author order, assigning roles,
+setting clear expectations, and crediting fairly in an varied collaborative environment.
+These guidelines were written (a) in consultation with several similar labs, (b) in review of
+relevant literature<sup>1-4</sup>, and (c) in light of existing standards<sup>5-6</sup>.
 
-- As a rule of thumb, our first authors should take ownership especially at research stages
-of conceptualization, writing, and project administration — ensuring timely progress to
-submission.
-- "When doing research, and especially as part of a team, best practice is always to ensure that
-there is clarity of roles at the beginning and throughout a research project."<sup>5</sup>
+It is important to discuss authorship attribution early and throughout the project.<sup>5</sup>
+Each repository will generally contain a `CRedIT.md` file, capturing a snapshot of that
+conversation. Though assigned formally, we expect for roles to occasionally change and evolve
+throughout a project's lifecycle.
+
+
+## First, Second, Middle, Last (FSML) Author Emphasis Model
+
+*First*, *Second*, *Middle* and *Last* authors play distinct but dynamic roles as part of a
+research team. In case of multiples, "bin" to role, but keep it reasonable: One first, second,
+and last author is always preferable for clarity.
+
+***First author/s*** tend to do the most work as well as being responsible especially for
+project conceptualization and methodology.
+
+***Second author/s*** tend to make deep contributions in several specific areas of
+responsibility.
+
+***Middle author/s*** usually play significant supporting roles.
+
+***Last author/s*** usually involve more senior scholars, who write, supervise, fund,
+administrate, and place, contributing meaningfully also to selected areas of deep expertise.
+
+## Considerations
+
 - Facilitate clear ownership of specific tasks.
-- The sequence of authors should be determined by their relative contribution to the
-project.
-- The last author will often act in the supervisory role, anchoring the project in favor of
-junior colleagues.
 - The lab's GitHub project template includes a CREDIT file that should be updated regularly.
-- Keep a log of your work. Channel your contributions through GitHub and Google Docs as much as
-possible, where the logging happens automatically.
-- Late projects may be reassigned, under consultation between faculty advisors.
+- Using logged tools such as as GitHub and Google Docs helps keep the contributions transparent.
+Try to always capture your offline work in the form of memos or logs committed to the project's
+GitHub repository.
+- Late projects may be reassigned, under consultation between lab faculty advisors.
 - An internal review should generally precede journal or conference submission.
 - Be open and forthright about your expectations. Do not hesitate to bring up any issues that
 may arise with the lab's faculty advisors.
@@ -67,6 +86,9 @@ in Different Disciplines][112].” Journal of Informetrics 4, no. 4 (October 1, 
 
 5. National Information Standards Organization (NISO). "Implementing CRediT." Accessed May 3, 2025. [https://credit.niso.org/implementing-credit/][115].
 
+6. Framework for Open and Reproducible Research Training.
+"First-last-author-emphasis Norm (FLAE)." *FORRT Glossary*, 3 Nov. 2021,
+https://forrt.org/glossary/vbeta/first-last-author-emphasis-norm-fla/.
 
 [111]: https://psycnet.apa.org/fulltext/1994-11404-001.html
 [112]: https://www-sciencedirect-com.ezproxy.cul.columbia.edu/science/article/pii/S1751157710000647?via%3Dihub
