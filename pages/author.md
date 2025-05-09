@@ -10,7 +10,8 @@ Each repository will generally contain a `CRedIT.md` file, capturing a snapshot 
 conversation. Though assigned formally, we expect roles to occasionally change and evolve
 throughout a project's lifecycle.
 
-CRedIT narrative should go into a footnote.
+We recommend for the contents of the CRedIT.md log to be narrativized concisely inclusion in
+the "attribution footnote," at the time of the publication.
 
 ## First, Second, Middle, Last (FSML) Author Emphasis Model
 
@@ -18,7 +19,8 @@ CRedIT narrative should go into a footnote.
 research team. In case of multiples, "bin" to role, but keep it reasonable: One first, second,
 and last author is always preferable for clarity.
 
-***First author/s*** tend to do the most work as well as being responsible, especially for project conceptualization and methodology.
+***First author/s*** tend to do the most work as well as being responsible, especially for
+project conceptualization and methodology.
 
 ***Second author/s*** tend to make deep contributions in several specific areas of
 responsibility.
@@ -28,7 +30,8 @@ responsibility.
 ***Last author/s*** usually involve more senior scholars, who write, supervise, fund,
 administrate, and place, contributing meaningfully also to selected areas of deep expertise.
 
-Assitant credits not rising to the level of authorship.
+Ad-hoc contributions not rising to the level of authorship can be credited in the attribution
+footnote.
 
 ## Considerations
 
