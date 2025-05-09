@@ -26,6 +26,8 @@ responsibility.
 ***Last author/s*** usually involve more senior scholars, who write, supervise, fund,
 administrate, and place, contributing meaningfully also to selected areas of deep expertise.
 
+Assitant credits not rising to the level of authorship.
+
 ## Considerations
 
 - Facilitate clear ownership of specific tasks.
