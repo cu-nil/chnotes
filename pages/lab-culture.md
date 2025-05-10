@@ -1,5 +1,7 @@
+# Lab Code of Conduct
+
 We believe in presence. Regular "open lab" sessions (on Friday afternoons from
-11–11:30am, at Butler Studio 208b) are a key way to get involved and to stay in
+11–1pm, at Butler Studio 208b) are a key way to get involved and to stay in
 touch. Use the time to work on your projects, learn new skills, share
 expertise, or just catch up on our own work. There are no requirements to
 attend.
@@ -59,8 +61,3 @@ Collective Intelligence][5]" (2014).
 [5]: http://mako.cc/academic/benkler_shaw_hill-peer_production_ci.pdf
 
 [6]: https://web.archive.org/web/20190513185445/https://www.nytimes.com/2016/07/13/opinion/when-law-is-not-justice.html?_r=0
-
-Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
-[here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md).
-
-
