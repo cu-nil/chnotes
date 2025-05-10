@@ -1,4 +1,4 @@
-## Computational Humanities Notes
+## CUNIL Notes in the Computational Humanities
 
 *These documents contain the working notes, tutorials, manuals, and other "local knowledge"
 materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/).*
