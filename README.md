@@ -19,7 +19,7 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 - Linguistics
 - Digital Ethnography
 - [Stylometry](https://github.com/cu-nil/dhnotes/blob/master/pages/style.md)
-- Statistical Thinkin
+- Statistical Thinking
 - Network Analysis
     - Diffusion / Contagion
     - Network Spatial Autoregression (SAR)
