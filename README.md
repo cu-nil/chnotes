@@ -31,6 +31,7 @@ materials from [Columbia's Narrative Intelligence Lab](https://nil.columbia.edu/
 
 > **Funding, Journals, Programs, Review, and Conferences**
 
+- **[Faculty Fellowships](https://github.com/dh-notes/dhnotes/blob/master/pages/faculty-fellow.md)**
 - **[Conferences](https://github.com/dh-notes/dhnotes/blob/master/pages/conferences.md)**
 - **[Peer Review and T&P
   Guidelines](https://github.com/dh-notes/dhnotes/blob/master/pages/evaluating-digital-work.md)**
