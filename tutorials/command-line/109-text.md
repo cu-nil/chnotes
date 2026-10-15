@@ -20,7 +20,7 @@ strings
 ```
 wget http://link/moby.pdf OR
 curl -O link/moby.pdf
-pdftotext moby.txt``
+pdftotext moby.pdf moby.txt
 cat moby.txt
 cat moby.pdf
 clear
@@ -55,7 +55,7 @@ man wc
 
 5. sort and count  
 
-`    sort fruits.txt > sorted-fruits.txt`  
+`    sort fruit.txt > sorted-fruits.txt`\
 `    uniq -c sorted-fruits.txt`  
 
 ### Hunting the Whale 
@@ -97,7 +97,7 @@ cat moby-nopunct.txt | tr '[:upper:]' '[:lower:]' > moby-clean.txt
 tail moby-clean.txt
 
 # sort by word frequency
-cat moby-clean.txt | tr ' ' '\n' | sort | uniq -c | sort -hr > word-count.txt`
+cat moby-clean.txt | tr ' ' '\n' | sort | uniq -c | sort -hr > word-count.txt
 
 # see what we did there
 head word-count.txt

@@ -849,7 +849,7 @@ papers.[^ln-coauthor]
 - [Project Jupyter](https://github.com/jupyter)
 - [PyLadies](https://github.com/pyladies)
 - [Python Software Foundation](https://www.python.org/psf/)
-- [The Programming Historian](http://http://programminghistorian.org)
+- [The Programming Historian](https://programminghistorian.org/)
 - @dawney_think_2015
 - @nelson_computer_1974
 

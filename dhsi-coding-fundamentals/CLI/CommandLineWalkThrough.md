@@ -78,7 +78,7 @@ This should give the contents of whatever lower directory that they chose.  Have
 
 >**Question:** What does *ls .* do?
 
->**Answer:** Show the contents of the directory above the current one.
+>**Answer:** Show the contents of the current directory.
 
 At this point they are ready to recognize the basic command structure:
 
@@ -112,7 +112,7 @@ The "~" is the "tilde" character and it is usually found with the "backtick" cha
 > 2. It changes the working directory to /.
 > 3. It changes the working directory to the user’s home directory.
 > 4. It produces an error message.
-> **Answer:** 1.
+> **Answer:** 3.
 
 
 <!-- -->
@@ -130,7 +130,7 @@ For a hypothetical filesystem location of **/home/amanda/data/**, select each of
 > 8. cd
 > 9. cd ..
 
-> **Answer:** 3, 5, 9
+> **Answer:** 3, 5, 7, 8, 9
 
 
 <!-- -->
@@ -314,7 +314,7 @@ Whoa! That's a lot of text.  Fortunately there is a command just looking at the 
 
 So, we can now see that this is Moby Dick.  We can control how much text we see by passing a number as a flag to head and we'll then only see that many lines.
 
-	$ head -31TTicb6
+	$ head -3 1TTicb6
 
 If there is a command called "head" that will show the top of the file then perhaps there is command called "tail" that will show the bottom of the file and indeed there is:
 
@@ -356,7 +356,7 @@ There is a handy little tool that helps us count the words in a file:
 	$ wc MobyDick.txt
 	22108  215135 1257296 MobyDick.txt
 
-The output is in the order "word, line, character".  It is the sort of output that we might want to save for future use so we'll place the output in a file:
+The output is in the order "line, word, byte".  It is the sort of output that we might want to save for future use so we'll place the output in a file:
 
 	$ wc MobyDick.txt > MobyWordCount.txt
 
@@ -618,7 +618,7 @@ With the plan laid out we will start to fill in content comment by comment.
 The first comment asks us to take a file name as input, which we can do using out `$` notation:
 
 	# Take a file name as input
-	file = $1
+	file=$1
 
 Next we find the starte and end line numbers:
 
@@ -754,6 +754,6 @@ Three other things to note about the history command:
 
 2. it is the history file that you are scrolling through when you press the up arrow on the commandline to avoid typing the same commands over and over.
 
-3. previous commands from history can be recalled with !<History number> . A ! on its own will recall the last command.
+3. previous commands from history can be recalled with !<History number> . `!!` will recall the last command.
 
 

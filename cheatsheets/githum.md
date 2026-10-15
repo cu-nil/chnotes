@@ -24,9 +24,8 @@ above instructions at step 2.
 > note: `git pull` does a `git fetch` followed by a `git merge`  
   
 `git add/rm foo.txt`  
-Stage any new files you want to commit. Modified files will be staged
-automatically. `git reset` to unstage. Add new files with add and remove with
-rm. Use the --amend flag to amend the commit before pushing  
+Stage any new or modified files you want to commit with `git add`.
+`git reset` to unstage. Add new files with add and remove with rm. Use the --amend flag to amend the commit before pushing\
 
 > use `git commit -am "notes go here"` to combine add and commit in one line
   

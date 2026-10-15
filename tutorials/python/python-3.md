@@ -18,17 +18,17 @@ print global_var
 print local_var  # this gives an error
 
 # lists
-a = [apple, orange, banana]
+a = ['apple', 'orange', 'banana']
 
 # list comprehension
 colors = [ "red", "green", "yellow", "blue" ]
 things = [ "house", "car", "tree" ]
 
-colored_things = [ (x,y) for x in colours for y in things ]
+colored_things = [ (x,y) for x in colors for y in things ]
 
 # note that print is kind of an exception as far as functions go (in 2.7, at
 least)
-print coloured_things
+print colored_things
 ```
 
 **Explore:** [Git, list authors sorted by the time of their first

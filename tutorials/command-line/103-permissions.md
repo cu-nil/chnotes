@@ -20,7 +20,7 @@ man sudo
 cat /etc/passwd ## list all users on the machine
 ```
 
-![List view.](../images/perm.png)
+![List view.](../../images/perm.png)
 
 > *Figure 2* Via
 [Via UC Irvine](http://www.ics.uci.edu/computing/linux/file-security.php)

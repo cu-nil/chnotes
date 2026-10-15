@@ -32,7 +32,7 @@ echo -e "hello\nworld!" >> test.txt
 history
 history | tail -5
 history | tail -5 >> history-dump.txt
-wc -l < history-dump.txt >
+wc -l < history-dump.txt
 ```
 ```
 # somewhat more advanced

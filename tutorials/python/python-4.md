@@ -1,7 +1,7 @@
 # Working w/ Strings
 
 ## Hunting the Whale
-<sup>†</sup><sub>Mimics a [similar excercise](https://github.com/xpmethod/dhnotes/blob/master/command-line/109-text.md#hunting-the-whale) in the command line tutorial</sub>
+<sup>†</sup><sub>Mimics a [similar excercise](../command-line/109-text.md#hunting-the-whale) in the command line tutorial</sub>
 
 
 ```

@@ -34,8 +34,8 @@ comfortable with the conversational, call and response style of programming.
 
 - 1.1 Welcome
   - 1.1.1 Introductions, resources
-  - [1.1.2](https://github.com/xpmethod-workshops/dhsi-coding-fundamentals/blob/master/book-chapter/main.md#1-critical-computing-principles) Course Philosophy
-  - [1.1.3](https://github.com/xpmethod-workshops/dhsi-coding-fundamentals/blob/master/book-chapter/main.md#2-digital-humanities-core) DH Core
+  - [1.1.2](book-chapter/main.md#1-critical-computing-principles) Course Philosophy
+  - [1.1.3](book-chapter/main.md#2-digital-humanities-core) DH Core
   - 1.1.4 Goals, Schedule
   - [1.1.5](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/000-cli.md) Why command
     line?
@@ -63,7 +63,7 @@ comfortable with the conversational, call and response style of programming.
   - [1.2.7](https://github.com/dh-notes/dhnotes/blob/master/tutorials/command-line/109-text.md)
     Basic Text Manipulation
 
-- 1.3 Coding with John: [Hunting the Whale](https://github.com/xpmethod-workshops/dhsi-coding-fundamentals/blob/master/CLI/CommandLineWalkThrough.md)  
+- 1.3 Coding with John: [Hunting the Whale](CLI/CommandLineWalkThrough.md)\
 Simple Scripting and Regular Expressions
 
 - 1.4 Code Review: [Prosecheck](https://github.com/xpmethod/prosecheck)
@@ -104,7 +104,7 @@ essential things:
 
 ## Day 3: Python II (6hr)
 
-- 2.2 Coding with John: [Zodiac](https://github.com/xpmethod-workshops/dhsi-coding-fundamentals/tree/master/python-live-code/zodiac).  We will be using the shell and a text editor for this session.  If you are using windows then it will make sense to use the command prompt rather than MobaXterm because it will give you easier access to the Anaconda installs of Python.  You can use many of your Bash Shell commands in the Windows Command Prompt but you'll find a crash course [HERE](http://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html).
+- 2.2 Coding with John: [Zodiac](python-live-code/zodiac).  We will be using the shell and a text editor for this session.  If you are using windows then it will make sense to use the command prompt rather than MobaXterm because it will give you easier access to the Anaconda installs of Python.  You can use many of your Bash Shell commands in the Windows Command Prompt but you'll find a crash course [HERE](http://www.cs.princeton.edu/courses/archive/spr05/cos126/cmd-prompt.html).
 
 - 2.3 Code Review:
 [RikersBot](https://github.com/xpmethod/rikersbot/blob/master/rikersbot.py)
@@ -189,8 +189,8 @@ The Hidden Language of Computer Hardware and Software](http://www.charlespetzold
 - [Project Jupyter](https://github.com/jupyter)
 - [PyLadies](https://github.com/pyladies)
 - [Python Software Foundation](https://www.python.org/psf/)
-- [The Programming Historian](http://http://programminghistorian.org)
-- [Think Python: How to Think Like a Computer Scientist](by Allen B. Downey) by Allen B. Downey
+- [The Programming Historian](https://programminghistorian.org/)
+- [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python/) by Allen B. Downey
 
 [1]: https://piazza.com/class/ia5h507lfcr47d 
 

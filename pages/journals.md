@@ -788,7 +788,7 @@ typically runs about 4,000 readers per month. Kairos publishes bi-annually, in
 August and January, with regular special issues in May.
 
 [**KULA: Knowledge Creation, Dissemination, and Preservation
-Studies**](kula.uvic.ca) is a peer-reviewed, open access journal, encouraging
+Studies**](https://kula.uvic.ca/) is a peer-reviewed, open access journal, encouraging
 the formation of a multi-disciplinary community of scholars studying human
 knowledge processes through the ages, understanding their role in human
 civilizations, and projecting them into the future from both humanistic and
