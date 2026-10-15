@@ -25,7 +25,7 @@ above instructions at step 2.
   
 `git add/rm foo.txt`  
 Stage any new or modified files you want to commit with `git add`.
-`git reset` to unstage. Add new files with add and remove with rm. Use the --amend flag to amend the commit before pushing  
+`git reset` to unstage. Add new files with add and remove with rm. Use the --amend flag to amend the commit before pushing\
 
 > use `git commit -am "notes go here"` to combine add and commit in one line
   
