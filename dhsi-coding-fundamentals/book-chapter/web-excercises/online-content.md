@@ -87,7 +87,8 @@ uses the newline character as a replacement string.
 
 ```
 # sort by word frequency
-cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt head word-count.txt
+cat moby-clean.txt | sed 's/[[:space:]]/\'$'\n/g' | sort | uniq -c | sort -gr -k1 > word-count.txt
+head word-count.txt
 ```
 
 The `sort` and `uniq -c` commands go together. The second, `uniq`, eliminates
@@ -104,13 +105,11 @@ the numeric order of the count rather than the alphabetical order of the word.
 We also want to have the most frequent words float to the top. The first two
 options, `-g` and `-r` (combined as `-gr`), tell the computer to do a
 **g**eneral numeric sort in **r**everse order. The next option, `-k1`,
-specifies the column of the data to base the sort on. If a sample line of
-`moby-clean.txt`, where we stored our counts, might be "whale 987", it is
-composed of two elements: the word and the number. The shell language uses
-index notation, meaning the word is indexed as the 0th element and the number
-as the 1st. Therefore, we use `-k` to tell it what to use as a **k**ey, and `1`
-to specify the second column, which contains the numbers. If we wanted to
-operate on the first column containing the words we would use `-k0`.
+specifies the field of the data to base the sort on. A sample line produced
+by `uniq -c` might be "987 whale": the count is followed by the word.
+`sort` numbers fields starting at 1, so `-k1` starts the **k**ey at the
+first field, which contains the count. To start at the second field,
+containing the word, we would use `-k2`.
 
 When you've stored the output, use the `head` command to take a look at the
 most common words. Do you notice anything interesting about this list?  How
